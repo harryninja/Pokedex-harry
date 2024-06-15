@@ -1,4 +1,4 @@
-![Pokedex for Real Life](preview.gif)
+![Pokedex for Real Life]
 
 ## Getting Started
 
