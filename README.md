@@ -1,5 +1,3 @@
-![Pokedex for Real Life]
-
 ## Getting Started
 
 1. Configure the .env file with details on (API Keys):
